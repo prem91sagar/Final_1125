@@ -1,0 +1,248 @@
+﻿Sensor,Description
+Heat,"Temperature Sensor(LM35),Heat Flux Sensor,RTD Sensor (MAX31865)"
+Heat,Thermistor (10D9)
+Fire,"Temperature Sensor(LM35),Thermistor (10D9),Heat Flux Sensor,RTD Sensor (MAX31865)"
+Temp,"Temperature Sensor(LM35),Thermistor (10D9),Heat Flux Sensor,RTD Sensor (MAX31865)"
+weather,"Temperature Sensor(LM35),Humidity Sensor(DHT11),RTD Sensor (MAX31865)"
+Sun,"Temperature Sensor(LM35),Thermistor (10D9),Heat Flux Sensor,RTD Sensor (MAX31865)"
+Blow,Temperature Sensor(LM35)
+Warm,"Temperature Sensor(LM35),Thermistor (10D9),Heat Flux Sensor,RTD Sensor (MAX31865)"
+Diy Water Chiller,Temperature Sensor(LM35)
+Obstacle,"IR sensor(Active Low),Ultrasonic Sensor(HC-SR04),"
+Line follower,"IR sensor(Active Low),IR sensor(Active Low) Array,"
+Infrared (Same as 21),"IR sensor(Active Low),PIR (HC-SR501),"
+Line tracker,"IR sensor(Active Low),IR sensor(Active Low) Array,"
+Black/White detector ,"IR sensor(Active Low),IR sensor(Active Low) Array,Colour Detector Module"
+proximity (Same as 20),"IR sensor(Active Low),Inductive Sensor,PIR"
+tracker,"IR sensor(Active Low),IR sensor(Active Low) Array,GPS"
+Donation Box,IR sensor(Active Low)
+Hand Santizer,IR sensor(Active Low)
+Presence,"PIR (HC-SR501),Photoelectric Sensor,Proximity Sensor"
+security,"Alarm Sensor(magnetic Switch ),Reed switch,PIR (HC-SR501)sensor(Active Low),Light Sensor (LDR),Metal Detector"
+Human Presence,"PIR (HC-SR501),Camera ModuleIR sensor(Active Low),Ultrasonic Sensor(HC-SR04)"
+Motion,"PIR (HC-SR501),Camera ModuleIR sensor(Active Low),Ultrasonic Sensor(HC-SR04)"
+Proximity (Same as 14),"PIR(HC-SR501),Inductive Sensor,IR sensor(Active Low)"
+Infrared (Same as 11),"PIR (HC-SR501),IR sensor(Active Low),"
+Motion sensor,PIR (HC-SR501)
+Warm object,"PIR (HC-SR501),Temperature Sensor(LM35),"
+Thief Detector,PIR (HC-SR501)
+Humidity,Humidity Sensor(DHT11)
+Automatic door,"PIR (HC-SR501)$,IR sensor(Active Low),Ultrasonic Sensor(HC-SR04)"
+Atmosphere,"Humidity Sensor(DHT11),Gas Sensor (MQ-2),"
+Water,"Water Sensor(Rain Sensor),Soil Moisture Sensor,"
+Rain,"Water Sensor(Rain Sensor),Rain Water Sensor(Rain Sensor),"
+Harvesting,"Water Sensor(Rain Sensor),Rain Water Sensor(Rain Sensor),"
+Rain Drops,"Water Sensor(Rain Sensor),Rain Water Sensor(Rain Sensor),"
+Distance,"Ultrasonic Sensor(HC-SR04)(HC-SR04),Photoelectric SensorGPS,LIDAR"
+Measurement ,"Ultrasonic Sensor(HC-SR04)(HC-SR04),Laser sensor,"
+Proximity,"Ultrasonic Sensor(HC-SR04),IR sensor(Active Low),Camera module"
+obstacle  Detection,"Ultrasonic Sensor(HC-SR04),IR sensor(Active Low),Camera module"
+Object,"Ultrasonic Sensor(HC-SR04),IR sensor(Active Low),Camera module"
+Range Detection,"Ultrasonic Sensor(HC-SR04),IR sensor(Active Low),Camera module"
+Obstacle Avoiding,"Ultrasonic Sensor(HC-SR04),IR sensor(Active Low),"
+Cleaning ,Ultrasonic Sensor(HC-SR04)
+Dustbin ,Ultrasonic Sensor(HC-SR04)
+Blind Stick,"Ultrasonic Sensor(HC-SR04),Laser sensor,GPS module,"
+Smart Ambulance,"Ultrasonic Sensor(HC-SR04),Laser sensor,"
+Soil,"Soil Moisture Sensor,Water Level (Rain Sensor)PH level Indicator,Rain Water Sensor(Rain Sensor)"
+Agriculture,"Soil Moisture Sensor,Water Level (Rain Sensor),Humidity Sensor(DHT11),PH level Indicator,Rain Water Sensor(Rain Sensor)"
+Water Content,"Soil Moisture Sensor,Water Level (Rain Sensor)PH level Indicator,Rain Water Sensor(Rain Sensor)"
+Soil Conductivity,"Soil Moisture Sensor,Water Level (Rain Sensor)PH level Indicator,Rain Water Sensor(Rain Sensor)"
+Field,"Soil Moisture Sensor,Water Level (Rain Sensor)PH level Indicator,Rain Water Sensor(Rain Sensor)"
+Irrigation,"Soil Moisture Sensor,Water Level (Rain Sensor)PH level Indicator,Rain Water Sensor(Rain Sensor)"
+Tilt,"Tilt switch,Tilt sensor,Mercury ball tilt switch"
+Angle,"Tilt switch,Tilt sensor,Mercury ball tilt switch"
+Inclination,"Tilt switch,Tilt sensor,Mercury ball tilt switch"
+Mercury Switch,"Tilt switch,Tilt sensor,Mercury ball tilt switch"
+Bend,"Flex Sensor,Force sensor,"
+Variable resistor,"Flex Sensor,force sensor,LDR"
+Deflection,"Flex Sensor,Ultrasonic Sensor(HC-SR04),IR sensor(Active Low)"
+Goniometer,Flex Sensor
+Resistance,"Flex Sensor,Current Sensor(ACS712),RTD Sensor (MAX31865)"
+Force ,"force sensor,Force Sensor,"
+Pressure,"force sensor,Tactile Sensor,Time Pressure Gauge,piezoelectric sensor,Piezoelectric Sensor"
+Weight,"force sensor,Load cell,"
+Resistor,"force sensor,flex sensor,LDR"
+Tracking,"GPS (NEO-6M),Camera Modulegsm,Bluetooth"
+Navigation,"GPS (NEO-6M),Radar Sensor (Radar Sensor),"
+Location,"GPS (NEO-6M),gsm,Bluetooth"
+Mapping,"GPS (NEO-6M),LIDAR,Camera module"
+Light,"LDR,Optical Position Sensor,"
+Dark,"LDR,Camera module,"
+XYZ axis,AccelerometerCamera module
+Bent,"Flex Sensor,Force sensor,"
+Acceleration ,"piezoelectric sensor,Accelerometer,"
+strain,"piezoelectric sensor,Force sensor,"
+Force,"piezoelectric sensor,Pressure Sensor,"
+Gesture ,piezoelectric sensor
+magnetic,"Reed Switch, magnetic door sensor,"
+electromagnetic,"Reed Switch, Electromagnetic sensors, Relay"
+Communication,"Alarm Sensor(magnetic Switch )Fiber Optic Sensor,Back-Illuminated Sensor"
+Imaging,",Camera module,Back-Illuminated Sensor"
+Resolution,",LCD,Back-Illuminated Sensor"
+Machine Vision,",Camera module,"
+Astronomy,",Transition-Edge Sensor,Charge-Coupled Device"
+OCR,Charge-Coupled Device
+Colour,",Colour Sensor (TCS3200 ),Charge-Coupled Device"
+Environment,"CO2 Sensor(MQ-7),Fluorescent Chloride Sensor,"
+Chemical,"CO2 Sensor(MQ-7),Fluorescent Chloride Sensor,"
+Greenhouse effect,"CO2 Sensor(MQ-7),Methane Gas Sensor (MQ-2),"
+Gas Monitor ,CO2 Sensor(MQ-7)
+Co2 ,CO2 Sensor(MQ-7)
+Optics,"Colour Sensor (TCS3200 ),Optical Position Sensor,Thin Film Thickness Sensor"
+RGB Matrix,Colour Sensor (TCS3200 )
+Frequency,Colour Sensor (TCS3200 )
+Detector,Colour Sensor (TCS3200 )
+Electronics,"Current Sensor(ACS712),voltage sensor,Resistors"
+Magnetic Field,"Current Sensor(ACS712),Hall Effect Sensor (SS49E),"
+Emergency Lamps,",LDR,Electro-Optical Sensor"
+Lamp,"IR sensor,pir sensor,"
+Spectroscopy,Electro-Optical Sensor
+Electrical trigger,Electro-Optical Sensor
+Remote Sensing,",Fiber Optic Sensor,"
+TIR,",Fiber Optic Sensor,"
+Radiation,Flame Detector (photon)
+Pyroelectric,"Flame Detector (photon),PIR(HC-SR501),"
+UV/IR,"Flame Detector (photon),Smoke Detector (MQ-2),"
+Biology,"Fluorescent Chloride Sensor,Heartbeat Sensor,"
+Magnetism,"Hall Effect Sensor (SS49E),Gyroscope(MPU-6050),"
+Hall Effect,"Hall Effect Sensor (SS49E),Current Sensor(ACS712),"
+Positioning,"Hall Effect Sensor (SS49E),Rotary Encoder Module,"
+Thermal Flux,",temperature sensor,Heat Flux Sensor"
+Transducer,",Microphone,Heat Flux Sensor"
+Hologram,",Camera module,Holographic Sensor (SS49E)"
+Chemistry,",PH level Indicator,Holographic Sensor (SS49E)"
+Refractive Index,Holographic Sensor (SS49E)
+Photography,",Camera module,Image Sensor (camera )"
+Thermography,",Camera module,Image Sensor (camera )"
+EM Radiation,mage Sensor (camera )
+EMI,Inductive Sensor
+Metal Detection,"Inductive Sensor,Metal Detector,"
+Detection,"LIDAR,Photodiode,"
+Photoelectric,Light Sensor (LDR)
+Control Circuits,Light Sensor (LDR)
+Force/Load,Load Cell (HX711)
+Mechatronics,",Rotary Encoder Module,Load Cell (HX711)"
+Calibration,Load Cell (HX711)
+Metallurgy,Metal Detector
+Inductance,Metal Detector
+Acoustic,Microphone
+Amplification,Microphone
+Intruder Alarm,"Motion Detector (PIR),PIR,"
+Movement,Motion Detector (PIR)
+Doppler Effect,Motion Detector (PIR)
+Nanotechnology,Nano sensors
+Pollutants,Nano sensors
+Biomolecules,Nano sensors
+People,Occupancy Sensor
+Position Sensitive,Optical Position Sensor
+Reverse Bias Device,Photodiode
+Photoelectric Effect,Photodiode
+Light Intensity,"Photoelectric Sensor,LDR,"
+Mechanical Stress,"Piezoelectric Sensor,load cellflex sensor,force sensor"
+Piezoelectric Effect,"Piezoelectric Sensor,Buzzer,"
+Pyroelectric ,PIR sensor (HC-SR501)
+Motion Sensing,PIR sensor (HC-SR501)
+IR Radiation,"PIR sensor (HC-SR501),IR sensor(Active Low),"
+Rotation,"Position Sensor (FlexiForce),Rotation knob,Rotary Encoder Module,Torque Sensor"
+Orientation,"Position Sensor (FlexiForce),Accelerometer,"
+Barometer,"Pressure Sensor,Force sensor,"
+Density,"Pressure Sensor,Force sensor,"
+Smartphones,"Proximity Sensor (HC-SR501),Accelerometer (ADXL345),Gyroscope"
+Medical,"Pulse Sensor,Mini magnetic reed,"
+Pulse,"Pulse Sensor,Heartbeat Sensor,"
+Light Scattering,"Pulse Sensor,Camera module,"
+Quantum Coherence,Quantum Sensor(LI190SB)
+Stimulus,Quantum Sensor(LI190SB)
+Biosciences,Quantum Sensor(LI190SB)
+Radio Waves,"Radar Sensor (Radar Sensor),RF Module,"
+Spacecrafts,"Radar Sensor (Radar Sensor),Camera module,"
+Climate Control,"RTD Sensor (MAX31865),Humidity Sensor(DHT11),Gas Sensor (MQ-2)"
+Alarms,"Smoke Detector (MQ-2),Gas Sensor (MQ-2),Flame sensor(Photon)"
+Ionization,"Smoke Detector (MQ-2),Gas Sensor (MQ-2),"
+Automobile,Speed Sensor (Photoelectric)(Photoelectric)
+Tachometer,Speed Sensor (Photoelectric)
+Speed,Speed Sensor (Photoelectric)
+Tension,"Stretch Sensor,load cellflex sensor,force sensor"
+Polymer,Stretch Sensor
+Thermistor (10D9),Temp and Humidity Sensor(DHT11)
+Conductivity,Temp and Humidity Sensor(DHT11)
+Circuit Protection,"Thermistor (10D9),Rotation knob,Thin Film Thickness Sensor"
+Vacuum Systems,Thin Film Thickness Sensor
+Spectrometry,Time Pressure Gauge
+Time Period,",Real time clock (RTC),Time Pressure Gauge"
+Digital Clock ,Real Time Clock
+Analog Clock,Real Time Clock
+Safety Controls,Torque Sensor
+Torque,Torque Sensor
+Automobiles,Transition-Edge Sensor
+Cryogenic,Transition-Edge Sensor
+Phase Transition,Thermocouple (MAX6675)
+Gas turbine exhaust,Thermocouple (MAX6675)
+Diesel engines ,Thermocouple (MAX6675)
+Industrial,
+Oxygen depletion,"Gas Sensor (MQ-2),MQ Sensors-2,"
+Fire fighting ,"Gas Sensor (MQ-2),MQ Sensors-2,Thermocouple"
+Gas,"Gas Sensor (MQ-2),MQ Sensors-2,"
+remotely,"Wireless sensor (RF),GSM(Sim800C),"
+remote,"Wireless sensor (RF),GSM(Sim800C),"
+Entry,"Fingerprint sensor (R307),Face Detection(Camera),Retina Scanner(camera)"
+Exit,"Fingerprint sensor (R307),Face Detection(Camera),Retina Scanner(camera)"
+biometric,"Fingerprint sensor (R307),Face Detection(Camera),Retina Scanner(camera)"
+Authentication,"Fingerprint sensor (R307),Face Detection(Camera),Retina Scanner(camera)"
+Biometric Lock,Fingerprint sensor (R307)
+Detects face,"Face detection sensor (Camrea),Camera Module,"
+Face,"Face detection sensor (Camrea),Camera Module,"
+Facial,"Face detection sensor (Camrea),Camera Module,"
+Displacement ,"Vibration switch sensor,Ultrasonic Sensor(HC-SR04),"
+Acceleration,"Vibration switch sensor,Ultrasonic Sensor(HC-SR04),"
+vibration,"Vibration switch sensor,Tilt Sensor,"
+Calculator,Keypad 4*4
+Locking System,Keypad 4*4
+Launch controls ,"Key switch,Push Button arrayKeypad(4√ó4 Matrix),Bluetooth Keyboard"
+Concentration Game,"Key switch,Push Button array,"
+buzz,"Small passive buzzer,Buzzer,"
+Process monitoring,"Laser sensor,Laser Diode,"
+Test equipment ,"Mini magnetic reed,RFID( RC522),"
+Security ,"Mini magnetic reed,RFID( RC522),"
+Door Lock,RFID
+Tamper proofing method,"Reed module,RFID( RC522),"
+Alter ignition timing  ,"Knock sensor,RTC(DS3231),"
+Hearing aids ,"Microphone sound sensor,Voice detection module(Mic),"
+Telephones ,"Microphone sound sensor,Voice detection module(Mic),"
+Tape recorders ,"Microphone sound sensor,Voice detection module(Mic),"
+Speech recognition  ,"Microphone sound sensor,Voice detection module(Mic),"
+Clap Control,Microphone sound sensor
+Led Control By Sound,sound sensor
+Smart dispensaries,"Heartbeat Sensor (pulse rate ),Pulse Sensor,Humidity Sensor(DHT11)"
+Smart Hospitals  ,"Heartbeat Sensor (pulse rate ),Pulse Sensor,Humidity Sensor(DHT11)"
+Heartbeat,"Heartbeat Sensor (pulse rate ),Pulse Sensor,Humidity Sensor(DHT11)"
+voltage,"Precision voltage sensor,Voltage divider Circuit,"
+Current,Precision Current Sensor(ACS712)
+touch,"Touch sensor (TTP223B),Knock Sensor,"
+ON,"Push button,Slide button,touch switch"
+Circle,"Rotation knob,Joy stick,"
+Hand Control,Joy stick
+Circular,"Rotation knob,Joystick,"
+Damper control,"Rotation sensor,Damp meter,"
+Valve control,"Rotation sensor,valve sensor,"
+Analog,"Joy stick,LDR,Temperature Sensor(LM35)"
+Audio or video editing ,"Slider 60,joystick,"
+shock,"Tilt sensor,High sensitivity vibration sensor,Mercury ball tilt switch,Knock Sensor"
+Linear and angular position,"Magnetic sensor,Rotatory Module,"
+Rotation sensing,"Magnetic sensor,Rotatory Module,"
+Digital signal processing,Analog -digital converter (PCF8591)
+Scientific instruments ,Analog -digital converter (PCF8591)
+Rotary encoders,Analog -digital converter (PCF8591)
+image ,"Advanced line following camera,Camera Module,"
+Speed ,Air pressure sensor (HX710B )
+Water Level (Rain Sensor),Air pressure sensor (HX710B )
+metal,Human or metal Touch sensor (TTP223B)
+Pulse count,Motor encoder light blocking sensor
+Position limit,"Motor encoder light blocking sensor,Rotation knob,"
+Isopropane ,"Isobutane propane Gas Sensor (MQ-2),MQ Gas Sensor (MQ-2),"
+ Detects LPG,"gas sensor(MQ-5 ),Liquefied gas-coal- Gas Sensor (MQ-2),"
+Detects propane ,"Methane Gas Sensor (MQ-2),MQ Gas Sensor (MQ-2),"
+Bluetooth Lights,Bluetooth Module (HC-05)
+Bluetooth Car,Bluetooth Module (HC-05)
+Bluetooth Voice Control,Bluetooth Module (HC-05)
